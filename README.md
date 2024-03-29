@@ -1,24 +1,14 @@
-[![Meteor Icon](http://icon.meteor.com/package/useraccounts:bootstrap)](https://atmospherejs.com/useraccounts/bootstrap)
-[![Build Status](https://travis-ci.org/meteor-useraccounts/bootstrap.svg?branch=master)](https://travis-ci.org/meteor-useraccounts/bootstrap)
+# What is this?
 
-# useraccounts:bootstrap
-
-Meteor sign up and sign in templates (and much more!) styled for twitter Bootstrap
+Meteor sign up and sign in templates (and much more!) styled for twitter Bootstrap 4
 
 This package depends on [useraccounts:core](https://atmospherejs.com/useraccounts/core)
 
-Learn more [here](http://useraccounts.meteor.com) or have a look at a [live demo application](http://useraccounts-bootstrap.meteor.com) or at the full [documentation](https://github.com/meteor-useraccounts/core).
+Learn more [here](https://github.com/meteor-compat/useraccounts-core/?tab=readme-ov-file) or have a look at the full [documentation](https://github.com/meteor-useraccounts/core/blob/master/Guide.md).
 
 
-## Bring Your Own Bootstrap
+## Setting up
 
-Adding this package with `meteor add useraccounts:bootstrap` does not add any other packages providing Bootstrap. This is to let you choose the flavour you prefer, being it compiled, less, sass, or from CDN!
+Adding this package with `meteor add imajus:useraccounts-bootstrap4` does not add any other packages providing Bootstrap. This is to let you choose the flavour you prefer, being it compiled, less, sass, or from CDN!
 
-At the moment it is up to date with Bootstrap 3.3.0.
-
-
-## Contributing
-
-Anyone is welcome to contribute. Fork, make your changes, and then submit a pull request.
-
-Thanks to all those who have contributed code changes to [this package](https://github.com/meteor-useraccounts/bootstrap/graphs/contributors) as well as to the [core package](https://github.com/meteor-useraccounts/core/graphs/contributors) and all who have helped by submitting bug reports and feature ideas.
+At the moment it is up to date with Bootstrap 4.6.x
